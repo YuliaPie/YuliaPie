@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Yulia!
+- 👀 I’m interested in traveling, boardgames, videogames, languages, vegan cooking
+- 🌱 I’m currently learning python
+- 📫 How to reach me? I guess the most suitable option for all of us is by mail jilly-2005@yandex.ru
+- 😄 Pronouns: she, her
