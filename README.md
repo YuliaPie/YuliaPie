@@ -10,8 +10,8 @@ I'm a beginner Python developer with a passion for learning. After completing my
 *   ✉️  You can contact me at [jilly-2005@yandex.ru](mailto:jilly-2005@yandex.ru) or by [Telegram](https://t.me/Yulia_A_Pershina)
 *   🧠  I'm currently learning Docker
 *   ⚡  I have a Specialist Degree in Journalism
-*   ✏️  Previosly worked in IT project documentation support.
-*   💛 Love learning new languages
+*   ✏️  Previosly worked in IT project documentation support
+*   💛  Love learning new languages
   ### Skills 
 
 *   Python
