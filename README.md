@@ -11,7 +11,7 @@ I'm a beginner Python developer with a passion for learning. After completing my
 *   🧠  I'm currently learning Docker
 *   ⚡  I have a Specialist Degree in Journalism
 *   ✏️  Previosly worked in IT project documentation support
-*   💛  Love learning new languages
+*   💛  Love learning new languages (learning Korean now)
   ### Skills 
 
 *   Python
